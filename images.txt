@@ -1,4 +1,1 @@
-#支持私库
-opengrok/docker
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+jenkins/jenkins:lts-jdk17
